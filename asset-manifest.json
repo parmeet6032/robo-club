@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/robo-club/static/css/main.a617e044.chunk.css",
+    "main.js": "/robo-club/static/js/main.af653930.chunk.js",
+    "main.js.map": "/robo-club/static/js/main.af653930.chunk.js.map",
+    "runtime-main.js": "/robo-club/static/js/runtime-main.d7629377.js",
+    "runtime-main.js.map": "/robo-club/static/js/runtime-main.d7629377.js.map",
+    "static/js/2.919eac35.chunk.js": "/robo-club/static/js/2.919eac35.chunk.js",
+    "static/js/2.919eac35.chunk.js.map": "/robo-club/static/js/2.919eac35.chunk.js.map",
+    "static/js/3.b3bc9e2e.chunk.js": "/robo-club/static/js/3.b3bc9e2e.chunk.js",
+    "static/js/3.b3bc9e2e.chunk.js.map": "/robo-club/static/js/3.b3bc9e2e.chunk.js.map",
+    "index.html": "/robo-club/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/robo-club/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.919eac35.chunk.js.LICENSE.txt": "/robo-club/static/js/2.919eac35.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/robo-club/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7629377.js",
+    "static/js/2.919eac35.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.af653930.chunk.js"
+  ]
+}

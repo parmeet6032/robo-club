@@ -1,4 +1,4 @@
-export const robots = [{
+const robots2 = [{
         id: 1,
         name: "Cherie Major",
         email: "cmajor0@deviantart.com",
@@ -150,7 +150,7 @@ export const robots = [{
     }
 ];
 
-let extraRobots = [{
+const robots3 = [{
         id: 26,
         name: "Ania Poulston",
         email: "apoulstonp@aboutads.info",
@@ -301,3 +301,5 @@ let extraRobots = [{
         username: "vducker1d",
     },
 ];
+
+export { robots2, robots3 };

@@ -1,8 +1,8 @@
 import React from "react";
 import Card from "./Card";
-import "./CardList.css";
+import "./css/CardList.css";
 
-const CardList = ({ robots }) => {
+const CardList = ({ robots, deleteTask, editTask, saveTask }) => {
   return (
     <div className="row d-flex justify-content-center ps-custom">
       {robots.map((robot) => {
@@ -11,7 +11,9 @@ const CardList = ({ robots }) => {
             key={robot.id}
             id={robot.id}
             name={robot.name}
-            email={robot.email}
+            deleteTask={deleteTask}
+            editTask={editTask}
+            saveTask={saveTask}
           />
         );
       })}

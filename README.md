@@ -1,12 +1,13 @@
-ROBO CLUB
+ROBO To-Do List
 
-Welcome to Robo Club. Here you can meet different randomly generated robots along with their details.
+Welcome to Robo Club. This is an intuitive To-Do List.
 
 HOW TO USE:
-1. The user can search the robots using name.
-2. The user can add new robots according to their preference.   (to be added)
-3. The user can delete old robots using the "red cross" button. (to be added)
-4. Random robot can also be added using the "Add Random Robot" button.  (to be added)
+1. The user can search the robots/tasks using the "search bar".
+2. The user can add new robots/tasks according to their preference using the "add new box".
+3. The user can delete robots/tasks using the "delete" button.
+4. The user can edit robots/tasks using the "edit" button and then save it using "save" button.
+5. Each task has its own robot, which is unique to the text/task entered.
 
 Technologies used: ReactJS, HTML, Bootstrap/CSS
 
